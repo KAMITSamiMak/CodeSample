@@ -150,9 +150,7 @@ public class Player : MonoBehaviour {
 
 		//--------------------General input--------------------//
 
-		if (Input.GetButtonDown ("Menu")) {
-
-		}
+		
 		if (Input.GetButtonDown ("ChangeMode")) {
 			ChangeMode ();
 		}
